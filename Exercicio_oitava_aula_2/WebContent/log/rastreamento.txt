@@ -1,0 +1,8 @@
+
+Não Logou:Usuario [username=leopdani, password=1234]data:07/05/2020 15:16
+Não Logou:Usuario [username=rrrrr, password=11111]data:07/05/2020 15:17
+Não Logou:Usuario [username=leopdani, password=asfasgasg]data:07/05/2020 15:25
+Logou:Usuario [username=pratprog, password=1234]data:07/05/2020 15:25
+Não Logou:Usuario [username=decio, password=goiabada]data:07/05/2020 15:29
+Não Logou:Usuario [username=pratprog, password=gugudada]data:07/05/2020 15:30
+Não Logou:Usuario [username=decio, password=1234]data:07/05/2020 15:30
